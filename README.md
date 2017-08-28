@@ -1,5 +1,7 @@
 # awesome-translator
 
+create something fun
+
 > A Vue.js project
 
 ## Build Setup
